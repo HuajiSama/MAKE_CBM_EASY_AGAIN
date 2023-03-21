@@ -4,6 +4,8 @@
     "id": "MAKE_CBM_EASY_AGAIN",
     "name": "让CBM再次易得",
     "authors": [ "滑稽sama" ],
-    "description": "用0.F-3的数据。"
+    "description": "用0.F-3的数据。",
+    "category": "items",
+    "dependencies": [ "dda" ]
   }
 ]
