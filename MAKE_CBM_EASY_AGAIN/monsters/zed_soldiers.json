@@ -31,7 +31,8 @@
     "vision_day": 50,
     "vision_night": 3,
     "luminance": 4,
-    "harvest": "CBM_OP",
+    "harvest": "mon_zomborg",
+    "dissect": "CBM_OP",
     "special_attacks": [ { "id": "bio_op_takedown", "cooldown": 20 } ],
     "special_when_hit": [ "ZAPBACK", 75 ],
     "death_drops": "mon_zombie_bio_op_death_drops",
@@ -64,7 +65,8 @@
     "dodge": 4,
     "armor_bash": 15,
     "armor_cut": 27,
-    "harvest": "CBM_OP2",
+    "harvest": "mon_zomborg",
+    "dissect": "CBM_OP2",
     "special_attacks": [ [ "BIO_OP_BIOJUTSU", 15 ] ]
   }
 ]
