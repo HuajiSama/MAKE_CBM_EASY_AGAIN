@@ -23,6 +23,7 @@
   {
     "type": "item_group",
     "id": "bionics_mil",
+    "subtype": "distribution",
     "entries": [
       { "item": "bio_power_storage", "prob": 10 },
       { "item": "bio_batteries", "prob": 10 },
@@ -67,7 +68,6 @@
       { "item": "bio_laser", "prob": 10 },
       { "item": "bio_emp", "prob": 10 },
       { "item": "bio_emp_armgun", "prob": 10 },
-      { "item": "bio_railgun", "prob": 10 },
       { "item": "bio_flashbang", "prob": 10 },
       { "item": "bio_chain_lightning", "prob": 10 },
       { "item": "bio_time_freeze", "prob": 10 },
@@ -133,7 +133,6 @@
       { "item": "bio_laser", "prob": 15 },
       { "item": "bio_emp", "prob": 10 },
       { "item": "bio_emp_armgun", "prob": 10 },
-      { "item": "bio_railgun", "prob": 10 },
       { "item": "bio_flashbang", "prob": 15 },
       { "item": "bio_chain_lightning", "prob": 10 },
       { "item": "bio_time_freeze", "prob": 5 },
@@ -167,7 +166,6 @@
       { "item": "bio_flashbang", "prob": 10 },
       { "item": "bio_heat_absorb", "prob": 10 },
       { "item": "bio_laser", "prob": 10 },
-      { "item": "bio_railgun", "prob": 10 },
       { "item": "bio_shotgun", "prob": 10 },
       { "item": "bio_shock", "prob": 10 },
       { "item": "bio_targeting", "prob": 10 }
